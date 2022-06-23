@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soohan2
-- 👀 I’m interested in jeon jae in ♥
+- 👀 I’m interested in jeon je in ♥
 - 🌱 I’m currently learning C, JavaScript, Python, Database, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
